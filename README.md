@@ -8,5 +8,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning basics of Kubernetes, Dockers and AWS.
 - 📫 How to reach me: https://www.linkedin.com/in/sankar-rajendran-36248b49/
 - 😄 Pronouns: his/him
-
--->
