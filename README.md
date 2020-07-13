@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a senior Javascript developer mostly got invovled in UI development using React. I have been working in web development for more than 6 years now. 
+I am a senior Javascript developer mostly got to work with Javascript, React and NodeJS. I have been working in web development for more than 6 years now. 
 
 - 🔭 I’m currently working with React, Javascript and SCSS.
 - 🌱 I’m currently learning basics of Dockers and AWS.
