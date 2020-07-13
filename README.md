@@ -4,7 +4,7 @@ I am a senior Javascript developer mostly got invovled in UI development using R
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React, Javascript and SCSS.
-- 🌱 I’m currently learning basics of Kubernetes, Dockers and AWS.
+- 🔭 I’m currently working with React, Javascript and SCSS.
+- 🌱 I’m currently learning basics of Dockers and AWS.
 - 📫 How to reach me: https://www.linkedin.com/in/sankar-rajendran-36248b49/
 - 😄 Pronouns: his/him
