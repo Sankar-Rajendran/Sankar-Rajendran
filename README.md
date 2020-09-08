@@ -5,4 +5,3 @@ I am a senior Javascript developer mostly got to work with Javascript, React and
 - 🔭 I’m currently working with React, Javascript and SCSS.
 - 🌱 I’m currently learning basics of Dockers and AWS.
 - 📫 How to reach me: https://www.linkedin.com/in/sankar-rajendran-36248b49/
-- 😄 Pronouns: his/him
